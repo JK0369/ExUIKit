@@ -11,6 +11,8 @@
 		4A18DD79287F146C00FDEEA6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A18DD78287F146C00FDEEA6 /* ContentView.swift */; };
 		4A18DD7B287F146D00FDEEA6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A18DD7A287F146D00FDEEA6 /* Assets.xcassets */; };
 		4A18DD7E287F146D00FDEEA6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A18DD7D287F146D00FDEEA6 /* Preview Assets.xcassets */; };
+		4A18DD85287F190900FDEEA6 /* MyUILabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A18DD84287F190900FDEEA6 /* MyUILabel.swift */; };
+		4A18DD87287F192600FDEEA6 /* ExTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A18DD86287F192600FDEEA6 /* ExTableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		4A18DD78287F146C00FDEEA6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4A18DD7A287F146D00FDEEA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A18DD7D287F146D00FDEEA6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4A18DD84287F190900FDEEA6 /* MyUILabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyUILabel.swift; sourceTree = "<group>"; };
+		4A18DD86287F192600FDEEA6 /* ExTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExTableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				4A18DD76287F146C00FDEEA6 /* ExUIKitApp.swift */,
 				4A18DD78287F146C00FDEEA6 /* ContentView.swift */,
+				4A18DD84287F190900FDEEA6 /* MyUILabel.swift */,
+				4A18DD86287F192600FDEEA6 /* ExTableView.swift */,
 				4A18DD7A287F146D00FDEEA6 /* Assets.xcassets */,
 				4A18DD7C287F146D00FDEEA6 /* Preview Content */,
 			);
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A18DD87287F192600FDEEA6 /* ExTableView.swift in Sources */,
+				4A18DD85287F190900FDEEA6 /* MyUILabel.swift in Sources */,
 				4A18DD79287F146C00FDEEA6 /* ContentView.swift in Sources */,
 				4A18DD77287F146C00FDEEA6 /* ExUIKitApp.swift in Sources */,
 			);
